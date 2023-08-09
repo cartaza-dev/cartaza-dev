@@ -7,7 +7,7 @@
   * JavaScript
   * Java
   * SQL
-  *TypeScript
+  * TypeScript
   * Spring Boot
   * Angular
   * Bootstrap
