@@ -12,9 +12,9 @@
   * Angular
   * Bootstrap
   * jQuery
-  *JWT
-  *JPA
-  *UML
+  * JWT
+  * JPA
+ 
 
 ---------------
 
