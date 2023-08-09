@@ -1,7 +1,7 @@
 # Desarrolladora web
 ## Hola! Mi nombre es Carla, soy técnica en desarrollo web y aplicaciones digitales.
 ---------------
-* Habilidades
+* En mis proyectos encontraras las siguientes tecnologías
   * Html
   * Css
   * JavaScript
@@ -12,5 +12,10 @@
   * Angular
   * Bootstrap
   * jQuery
-  * Scrum
-  * Desarrollo Android con java.
+  *JWT
+  *JPA
+  *UML
+
+---------------
+
+### 
