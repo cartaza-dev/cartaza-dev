@@ -9,10 +9,11 @@
   * SQL
   * TypeScript
   * Spring Boot
-  * Angular
+  * Spring security
+  * JWT
   * Bootstrap
   * jQuery
-  * JWT
+  * Angular
   * JPA
  
 
